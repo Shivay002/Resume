@@ -1,0 +1,23 @@
+hr {
+  width: 25%;
+  height: 2px;
+  margin-left: -10px;
+  color: black;
+  background-color: #b7d0e2;
+}
+
+#hr2 {
+  width: 104%;
+  height: 2px;
+  margin-left: -10px;
+  color: black;
+  background-color: #b7d0e2;
+}
+
+.fonts {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: x-large;
+  font-weight: bolder;
+  color: rgb(63, 62, 62);
+}
